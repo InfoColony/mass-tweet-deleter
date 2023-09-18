@@ -15,12 +15,15 @@
                 "*://twitter.com/*"
             ],
             "js": [
-                "index.js"
+                "popup.js"
             ]
         }
     ],
-    "browser_action": {
+    "action": {
         "default_icon": "img/icons/icon16.png",
-        "default_popup": "index.html"
-    }
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
 }
