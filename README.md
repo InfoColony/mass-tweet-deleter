@@ -27,4 +27,4 @@
 
 ---
 
-[Pius](https://#) |[Michael C. Iyke](https://#)
+[Pius Ebiama](https://#) | [Michael C. Iyke](https://#)
