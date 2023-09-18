@@ -2,6 +2,8 @@
 
 ## Short name: MTD
 
+![Logo](img/icons/icon128.png)
+
 > It was initiated from a personal one-off task to mass delete all re-tweets made on a Twitter account. However, it will now evolve to a simple interface to quickly perform tasks on Twitter that took more clicks and time to get done.
 
 1. In one place, you could check all your past tweets or some of it organized by past date.
